@@ -1,0 +1,1 @@
+Upload the photos of those persons who are successfully registered in the database.
